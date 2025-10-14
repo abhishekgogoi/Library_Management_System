@@ -139,7 +139,6 @@ npm test
 ### Run tests with coverage
 
 ```bash
-cd frontend
 npm run test:coverage
 ```
 
