@@ -6,7 +6,6 @@ A modern, full-featured Library Management System built with React 19, Redux Too
 [![Vite](https://img.shields.io/badge/Vite-Latest-646CFF.svg)](https://vitejs.dev/)
 [![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-2.9-764ABC.svg)](https://redux-toolkit.js.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.4-06B6D4.svg)](https://tailwindcss.com/)
-[![Tests](https://img.shields.io/badge/Tests-37%20Passing-success.svg)](https://vitest.dev/)
 
 ## ✨ Features
 
